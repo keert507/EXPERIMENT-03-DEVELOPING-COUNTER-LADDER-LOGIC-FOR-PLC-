@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME:
-## REGISTER NUMBER:
-## DEPARTMENT:
-## YEAR:
+## NAME:keerthana T
+## REGISTER NUMBER:212224100031
+## DEPARTMENT:BE-CSE(cyber security)
+## YEAR:1st
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -63,8 +63,20 @@ Download the ladder logic program to the PLC if available and run it.
 Test the counters with the physical push buttons and observe the LEDs or other output devices.
 ### Outputs:
 Up Counter (CTU): The output LED or indicator should activate when the preset count (e.g., 10) is reached.
+
+![1](https://github.com/user-attachments/assets/b6b6098c-aa1a-4555-92a8-12fb97f7a7ac)
+
 Down Counter (CTD): The output should activate when the count reaches zero.
+
+![2](https://github.com/user-attachments/assets/a36656e6-25f3-4590-abeb-a861040783ff)
+
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
+
+
+![ex 3 ss3](https://github.com/user-attachments/assets/b787b7b6-b98b-44fb-995a-4b2f8057207b)
+
+![Screenshot 2025-03-23 121448](https://github.com/user-attachments/assets/445c3bd8-0f40-4e43-a8a8-d4bd24d5c8a8)
+
 
 ### Simulation Screenshots:
 (Add screenshots of the ladder logic and counter operations in the simulation software.)
